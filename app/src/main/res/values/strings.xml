@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="currency_arrays1">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>THB</item>
+        <item>SGD</item>
+        <item>JPY</item>
+    </string-array>
+
+    <string-array name="currency_arrays2">
+        <item>MMK</item>
+        <item>EUR</item>
+        <item>THB</item>
+        <item>SGD</item>
+        <item>USD</item>
+    </string-array>
+</resources>
